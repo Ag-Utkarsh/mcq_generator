@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcq_generator
+Version: 0.0.1
+Author: Utkarsh Agarwal
+Author-email: utkarshagarwal9641@gmail.com
+Requires-Dist: groq
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
